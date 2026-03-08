@@ -35,3 +35,27 @@ My daily learnings, notes, and small experiments on applying <br>
 
 ### 📌 Topics
 `ai` `machine-learning` `uav` `drones` `python` `computer-vision` `aerodynamics` `control-systems` `simulation`
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+My secret project: https://github.com/users/nurlan-kangarli-code/projects/19
