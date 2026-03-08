@@ -20,8 +20,8 @@ My daily learnings, notes, and small experiments on applying <br>
 <div style="background-color:#f0f7e8; padding:15px; border-radius:10px; margin:10px 0;">
 🎯 <b>I have two rules on this journey:</b><br>
 <div style="margin-top:4px;">
-<div style="margin-bottom:6px;">1️⃣ Learn and write at least a little every day.</div>
-<div>2️⃣ Don't forget rule #1.</div>
+<div style="margin-bottom:6px;">1️. Learn and write at least a little every day.</div>
+<div>2️. Don't forget rule #1.</div>
 </div>
 </div>
 
