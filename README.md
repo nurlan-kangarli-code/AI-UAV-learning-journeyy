@@ -31,11 +31,10 @@ My daily learnings, notes, and small experiments on applying <br>
 <i>Learn – test – fly.</i> 🚀
 </div>
 
-<br>
-
-### 📌 Topics
-`ai` `machine-learning` `uav` `drones` `python` `computer-vision` `aerodynamics` `control-systems` `simulation`
 
 <br>
 
-My secret project: https://github.com/users/nurlan-kangarli-code/projects/19
+<br>
+
+<b> By the end of June, if I have a working drone and a GPA of 90+, I will start my secret project.</b><br>
+<b> My secret project: https://github.com/users/nurlan-kangarli-code/projects/19 </b><br>
