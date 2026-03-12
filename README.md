@@ -38,24 +38,4 @@ My daily learnings, notes, and small experiments on applying <br>
 
 <br>
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
 My secret project: https://github.com/users/nurlan-kangarli-code/projects/19
