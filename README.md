@@ -20,11 +20,3 @@ My daily learnings, notes, and small experiments on applying <br>
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Learn – test – fly.</i> 🚀
 </div>
-
-<br>
-
-<div style="background-color:#f8f9fa; padding:15px; border-radius:10px; margin:10px 0;">
-📁 <b>By the end of June:</b><br>
-<div style="margin-top:4px;">
-• if I have a working drone and a GPA of 90+, I will start my secret project.<br>
-• My secret project: https://github.com/users/nurlan-kangarli-code/projects/19 <br>
